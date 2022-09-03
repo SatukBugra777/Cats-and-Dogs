@@ -1,0 +1,72 @@
+div{
+	background-image:burlywood;
+}
+
+
+.main{
+ color:white;
+ text-align:center;
+ margin-top:50px;
+ margin-bottom:50px;
+}
+.mains{
+	margin-top:40px;
+	color:white;
+	text-align: center;
+
+}
+.Linkers{
+	color:white;
+	text-align: center;
+
+}
+.TheTeller{
+	margin-top:39px;
+	text-align: center;
+
+}
+.nekoko{
+	color:white;
+	margin-top:50px;
+	text-align: center;
+
+}
+.meew{
+	color:dodgerblue;
+	text-align: center;
+
+}
+.Dogy{
+	margin-top:45px;;
+	color:gold;
+	text-align: center;
+
+}
+.children{
+
+	color:mediumvioletred;
+	text-align: center;
+}
+.that
+{
+	border-color:green;
+	background-color: burlywood;
+	width: 90%;
+	margin:auto;
+	list-style: inside;
+}
+.wuffers
+{
+	border-color:red;
+	background-color:cyan;
+	margin: auto;
+	width:90%;
+	list-style: inside;
+}
+.middle
+{
+	margin-left: auto;
+	margin-right:auto;
+	display: block;
+	
+}
